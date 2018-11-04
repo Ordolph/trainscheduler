@@ -1,0 +1,10 @@
+body {
+
+    background-image: url("../images/trains.jpg")
+}
+
+.jumbotron {
+    background-color: rgb(124, 202, 202);
+    box-shadow: 2.5px 5px 5px #728181;
+
+}
